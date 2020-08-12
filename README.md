@@ -2,11 +2,13 @@
 
 ## Problems
 
-- Spiral Order Matrix I
+- Min Steps Infinite Grid
+
+- Large Factorial
 
 - Max Non Negative Subarray
 
-- Large Factorial
+- Spiral Order Matrix I
 
 ## Important Psuedocode
 
