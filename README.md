@@ -9,3 +9,5 @@
 - Large Factorial
 
 ## Important Psuedocode
+
+- Insertion Sort
