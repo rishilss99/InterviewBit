@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Add One to Number
+
 - Min Steps Infinite Grid
 
 - Large Factorial
