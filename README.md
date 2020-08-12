@@ -11,3 +11,7 @@
 ## Important Psuedocode
 
 - Insertion Sort
+
+- Selection Sort
+
+- Bubble Sort
