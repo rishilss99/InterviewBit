@@ -2,6 +2,10 @@
 
 ## Problems
 
+- __Maximum Absolute Difference (Couldn't Solve)__
+
+- Max Sum Contiguous Subarray
+
 - Add One to Number
 
 - Min Steps Infinite Grid
