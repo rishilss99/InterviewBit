@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Wave Array
+
 - Set Matrix Zeros
 
 - Find Duplicate in Array
