@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Find Duplicate in Array
+
+- __Triplets with Sum between Given Range (Couldn't Solve)__
+
 - Merge Overlapping Intervals
 
 - Rotate Matrix
