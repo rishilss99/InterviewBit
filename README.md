@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Set Matrix Zeros
+
 - Find Duplicate in Array
 
 - __Triplets with Sum between Given Range (Couldn't Solve)__
