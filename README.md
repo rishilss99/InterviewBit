@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Noble Integer
+
 - Wave Array
 
 - Set Matrix Zeros
