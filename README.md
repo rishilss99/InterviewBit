@@ -2,6 +2,8 @@
 
 ## Problems
 
+- First Missing Integer
+
 - Noble Integer
 
 - Wave Array
