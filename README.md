@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Pascal Triangle
+
+- Spiral Order Matrix II
+
 - First Missing Integer
 
 - Noble Integer
@@ -35,6 +39,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Merge Sort
 
 - Insertion Sort
 
