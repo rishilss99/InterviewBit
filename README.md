@@ -40,6 +40,10 @@
 
 ## Important Psuedocode
 
+- Is Prime
+
+- Quick Sort
+
 - Merge Sort
 
 - Insertion Sort
