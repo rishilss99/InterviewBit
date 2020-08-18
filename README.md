@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Sum of Pairwise Hamming Distance
+
+- Prime Sum
+
 - Pascal Triangle
 
 - Spiral Order Matrix II
@@ -39,6 +43,10 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- All Factors
+
+- Sieve of Eratosthenes
 
 - Is Prime
 
