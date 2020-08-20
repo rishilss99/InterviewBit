@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Pretty Print
+
 - Sorted Permutation Rank
 
 - Greatest Common Divisor
