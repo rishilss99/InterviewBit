@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Reverse Integer
+
+- Palindrome Integer
+
 - Grid Unique Paths
 
 - Excel Column Title
