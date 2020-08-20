@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Greatest Common Divisor
+
 - Reverse Integer
 
 - Palindrome Integer
@@ -55,6 +57,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Euclidean Theorem for Greatest Common Factor
 
 - All Factors
 
