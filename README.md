@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Sorted Permutation Rank
+
 - Greatest Common Divisor
 
 - Reverse Integer
