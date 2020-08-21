@@ -2,6 +2,20 @@
 
 ## Problems
 
+- Implement StrStr
+
+- Amazing Subarrays
+
+- Atoi
+
+- Compare Version Numbers
+
+- Count and Say
+
+- Longest Common Prefix
+
+- Palindrome String
+
 - Pretty Print
 
 - Sorted Permutation Rank
