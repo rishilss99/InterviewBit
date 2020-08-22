@@ -2,6 +2,12 @@
 
 ## Problems
 
+- Add Binary Strings
+
+- Integer to Roman
+
+- Roman to Integer
+
 - Implement StrStr
 
 - Amazing Subarrays
