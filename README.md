@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Reverse the String
+
 - Length of Last Word
 
 - Add Binary Strings
