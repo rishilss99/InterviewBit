@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Zigzag String
+
+- __Justified Text (Very Hard)__
+
 - Reverse the String
 
 - Length of Last Word
