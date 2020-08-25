@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Power of 2
+
 - Zigzag String
 
 - __Justified Text (Very Hard)__
