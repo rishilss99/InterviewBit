@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Multiply Strings
+
 - Power of 2
 
 - Zigzag String
