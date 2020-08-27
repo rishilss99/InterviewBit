@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Count Element Occurence
+
 - Multiply Strings
 
 - Power of 2
@@ -93,6 +95,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- First & Last Occurence Find using Binary Search
 
 - Binary Search (Recursive)
 
