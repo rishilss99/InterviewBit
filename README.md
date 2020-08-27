@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Square Root of Integer
+
+- Rotated Array
+
 - Count Element Occurence
 
 - Multiply Strings
