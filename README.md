@@ -94,6 +94,10 @@
 
 ## Important Psuedocode
 
+- Binary Search (Recursive)
+
+- Binary Search (Iterative)
+
 - Euclidean Theorem for Greatest Common Factor
 
 - All Factors
