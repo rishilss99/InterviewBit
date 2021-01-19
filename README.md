@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Power of 2 Integers
+
 - Square Root of Integer
 
 - Rotated Array
