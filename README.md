@@ -102,6 +102,8 @@
 
 ## Important Psuedocode
 
+- Prime Factorization
+
 - First & Last Occurence Find using Binary Search
 
 - Binary Search (Recursive)
