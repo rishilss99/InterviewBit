@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Sort Array with Squares
+
 - Power of 2 Integers
 
 - Square Root of Integer

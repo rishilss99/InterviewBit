@@ -1,4 +1,4 @@
-# Pretty Print
+# Power of 2 Integers
 
 ## Problem
 
