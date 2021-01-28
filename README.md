@@ -2,6 +2,8 @@
 
 ## Problems
 
+- __Perfect Peak (Couldn't Solve)__
+
 - Sort Array with Squares
 
 - Power of 2 Integers
@@ -103,6 +105,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- All Sorting Algorithms
 
 - Prime Factorization
 
