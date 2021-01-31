@@ -1,4 +1,4 @@
-# Power of 2
+# Perfect Peak
 
 ## Problem
 

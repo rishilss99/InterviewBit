@@ -2,6 +2,8 @@
 
 ## Problems
 
+- Minimum Parantheses!
+
 - __Perfect Peak (Couldn't Solve)__
 
 - Sort Array with Squares
