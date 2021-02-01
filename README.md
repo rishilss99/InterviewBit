@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Vowel and Consonant Substrings
+
+- Convert to Palindrome
+
 - Minimum Parantheses!
 
 - __Perfect Peak (Couldn't Solve)__
@@ -107,6 +111,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- KMP Algorithm
 
 - All Sorting Algorithms
 
