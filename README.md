@@ -2,6 +2,14 @@
 
 ## Problems
 
+- __Implement Power Function (Couldn't Solve)__ 
+
+- Search Bitonic Array
+
+- Woodcutting Made Easy!
+
+- Search for Range
+
 - Sorted Insert Position
 
 - Vowel and Consonant Substrings
