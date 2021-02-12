@@ -2,7 +2,19 @@
 
 ## Problems
 
-- __Implement Power Function (Couldn't Solve)__ 
+- __XOR-ing the Subarrays! (Couldn't Solve)__
+
+- Count Total Set Bits
+
+- __Divide Integers (Couldn't Solve)__
+
+- Reverse Bits
+
+- Trailing Zeroes
+
+- Number of 1 Bits
+
+- __Implement Power Function (Couldn't Solve)__
 
 - Search Bitonic Array
 
