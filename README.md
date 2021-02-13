@@ -2,6 +2,16 @@
 
 ## Problems
 
+- Intersection of Sorted arrays
+
+- Merge Two Sorted Lists 2
+
+- Diffk
+
+- Pair with Given Difference
+
+- Single Number
+
 - __XOR-ing the Subarrays! (Couldn't Solve)__
 
 - Count Total Set Bits
@@ -133,6 +143,8 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Two Pointers
 
 - KMP Algorithm
 
