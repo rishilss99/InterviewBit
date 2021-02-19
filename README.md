@@ -2,6 +2,26 @@
 
 ## Problems
 
+- 3 Sum Zero
+
+- Counting Subarrays!
+
+- Container With Most Water
+
+- Max Continuous Series of 1s
+
+- __Maximum Ones After Modification (Couldn't Solve)__
+
+- Sort by Color
+
+- Remove Element from Array
+
+- Remove Duplicates from Sorted Array II
+
+- Remove Duplicates from Sorted Array
+
+- __3 Sum (Couldn't Solve)__
+
 - Intersection of Sorted arrays
 
 - Merge Two Sorted Lists 2
