@@ -2,6 +2,32 @@
 
 ## Problems
 
+- Partition List
+
+- Insertion Sort List
+
+- Kth Node from Middle
+
+- Add Two Numbers as Lists
+
+- __List Cycle (Couldn't Solve)__
+
+- Sort Binary Linked List
+
+- Rotate List
+
+- Swap List Nodes in Pairs
+
+- K Reverse Linked List
+
+- Remove Nth Node from List End
+
+- Remove Duplicates from Sorted List
+
+- Merge Two Sorted Lists
+
+- Palindrome List
+
 - 3 Sum Zero
 
 - Counting Subarrays!
@@ -163,6 +189,10 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Reverse Linked List (Recursive)
+
+- Reverse Linked List (Iterative)
 
 - Two Pointers
 
