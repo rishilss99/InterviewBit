@@ -1,4 +1,4 @@
-# Partition List
+# Reverse Linked List 2
 
 ## Problem
 

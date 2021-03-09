@@ -1,4 +1,4 @@
-# Partition List
+# Reorder List
 
 ## Problem
 

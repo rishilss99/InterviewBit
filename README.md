@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Evaluate Expression
+
+- Generate All Parantheses
+
 - Reorder List
 
 - Reverse Linked List 2
