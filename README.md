@@ -2,6 +2,10 @@
 
 ## Problems
 
+- Reorder List
+
+- Reverse Linked List 2
+
 - Partition List
 
 - Insertion Sort List
