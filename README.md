@@ -2,6 +2,22 @@
 
 ## Problems
 
+- __Sliding Window Maximum (Very Hard)__
+
+- First Non-repeating character in a stream of characters
+
+- Nearest Smaller Element
+
+- Balanced Parentheses
+
+- Reverse String
+
+- Simplify Directory Path
+
+- Redundant Braces
+
+- Min Stack
+
 - Evaluate Expression
 
 - Generate All Parantheses
