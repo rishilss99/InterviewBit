@@ -2,6 +2,30 @@
 
 ## Problems
 
+- Sudoku
+
+- NQueens
+
+- Gray Code
+
+- __Permutations (Couldn't Solve)__
+
+- __Generate all Parentheses 2 (Couldn't Solve)__
+
+- Palindrome Partitioning
+
+- Letter Phone
+
+- Subset 2
+
+- Combinations Sum 2
+
+- Combinations
+
+- Combination Sum
+
+- Subset
+
 - __Sliding Window Maximum (Very Hard)__
 
 - First Non-repeating character in a stream of characters
@@ -213,6 +237,10 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Permutations
+
+- Form Subsets
 
 - Reverse Linked List (Recursive)
 
