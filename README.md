@@ -2,6 +2,38 @@
 
 ## Problems
 
+- Fraction
+
+- Two out of Three
+
+- Subarray with given XOR
+
+- __Subarray with equal cccurences! (Very Important)__
+
+- Subarray with B Odd Numbers
+
+- Pairs with given XOR
+
+- __Longest Subarray Length (Very Important)__
+
+- An Increment Problem
+
+- Diffk 2 
+
+- Valid Sudoku
+
+- 4 Sum
+
+- 2 Sum
+
+- __Largest Continuous Sequence Zero Sum (Couldn't Solve)__
+
+- Colorful Number
+
+- First Repeating Element
+
+### No source code and .md files this point forth 
+
 - Sudoku
 
 - NQueens
