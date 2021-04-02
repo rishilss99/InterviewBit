@@ -2,6 +2,14 @@
 
 ## Problems
 
+- Longest Substring Without Repeat
+
+- Copy List
+
+- Equal
+
+- Anagrams
+
 - Fraction
 
 - Two out of Three
