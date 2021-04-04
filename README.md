@@ -2,6 +2,24 @@
 
 ## Problems
 
+- Balanced Binary Tree
+
+- Remove Half Nodes
+
+- Path to Given Node
+
+- Recover Binary Search Tree
+
+- BST Iterator
+
+- 2-Sum Binary Tree
+
+- Kth Smallest Element in Tree
+
+- Valid Binary Search Tree
+
+- Next Greater Number BST
+
 - Longest Substring Without Repeat
 
 - Copy List
@@ -277,6 +295,16 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Level Order Traversal
+
+- Morris Traversal
+
+- Postorder Traversal
+
+- Preorder Traversal
+
+- Inorder Traversal
 
 - Permutations
 
