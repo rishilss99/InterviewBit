@@ -2,6 +2,16 @@
 
 ## Problems
 
+- ZigZag Level Order Traversal BT
+
+- Cousins in Binary Tree
+
+- Reverse Level Order
+
+- Merge Two Binary Trees
+
+- Diagonal Traversal
+
 - Balanced Binary Tree
 
 - Remove Half Nodes
