@@ -2,6 +2,44 @@
 
 ## Problems
 
+- Profit Maximization
+
+- Root to Leaf Paths With Sum
+
+- K Largest Elements
+
+- Distinct Numbers in Window
+
+- Vertical Order Traversal of Binary Tree 
+
+- Sum Root to Leaf Numbers
+
+- Flatten Binary Tree to Linked List
+
+- Least Common Ancestor
+
+- Construct Binary Tree From Inorder and Preorder
+
+- Min Depth of Binary Tree
+
+- Path Sum
+
+- Sorted Array To Balanced BST
+
+- Inorder Traversal of Cartesian Tree
+
+- Populate Next Right Pointers Tree
+
+- Invert the Binary Tree
+
+- Max Depth of Binary Tree
+
+- Symmetric Binary Trees
+
+- Identical Binary Trees
+
+- Maximum Level Sum
+
 - ZigZag Level Order Traversal BT
 
 - Cousins in Binary Tree
