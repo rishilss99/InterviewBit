@@ -2,6 +2,18 @@
 
 ## Problems
 
+- Leaders in an Array
+
+- Shortest Unique Prefix
+
+- Magician and Chocolates
+
+- Merge K Sorted Lists
+
+- Marge K Sorted Arrays
+
+- Binary Tree From Inorder and Postorder
+
 - Profit Maximization
 
 - Root to Leaf Paths With Sum
@@ -343,6 +355,10 @@
 - Spiral Order Matrix I
 
 ## Important Psuedocode
+
+- Heap Sort (With Heapify)
+
+- Heap Sort (Without Heapify)
 
 - Level Order Traversal
 
